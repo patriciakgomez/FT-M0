@@ -1,0 +1,21 @@
+<style>
+h1{
+    color:blueviolet;
+}
+img{
+    width:400px;
+}
+#thirdDiv{
+    height:600px;
+    width:500px;
+    background-color:coral;
+    padding: 50px;
+    border-color: cornflowerblue;
+    border-style: groove;
+    border-width: 10px;
+}
+#spanId{
+    font-size:18px;
+    margin: 50px;
+}
+</style>
